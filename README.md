@@ -1,6 +1,6 @@
 # Description
 
-Just a annoying modal. . . Or could it be just a Pop-Up? 🤔
+## Just a annoying modal. . . Or could it be just a Pop-Up? 🤔
 
 # Getting Started with Create React App
 
